@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "name": "Michael Johnson",
+      "age": 35,
+      "city": "Chicago",
+      "is_student": false,
+      "hobbies": [
+        "playing guitar",
+        "cooking",
+        "gardening"
+      ],
+      "address": {
+        "street": "789 Oak St",
+        "city": "Anywhere",
+        "state": "IL",
+        "zip": "54321"
+      },
+      "id": "a0ca"
+    },
+    {
+      "name": "Emily Brown",
+      "age": 28,
+      "city": "San Francisco",
+      "is_student": true,
+      "hobbies": [
+        "yoga",
+        "reading",
+        "dancing"
+      ],
+      "address": {
+        "street": "101 Pine St",
+        "city": "Everywhere",
+        "state": "CA",
+        "zip": "98765"
+      },
+      "id": "cbf2"
+    },
+    {
+      "name": "David Martinez",
+      "age": 32,
+      "city": "Miami",
+      "is_student": false,
+      "hobbies": [
+        "surfing",
+        "playing soccer",
+        "watching movies"
+      ],
+      "address": {
+        "street": "202 Maple St",
+        "city": "Nowhere",
+        "state": "FL",
+        "zip": "24680"
+      },
+      "id": "7944"
+    },
+    {
+      "name": "Sarah Lee",
+      "age": 27,
+      "city": "Seattle",
+      "is_student": true,
+      "hobbies": [
+        "hiking",
+        "baking",
+        "crafting"
+      ],
+      "address": {
+        "street": "303 Birch St",
+        "city": "Somewhen",
+        "state": "WA",
+        "zip": "13579"
+      },
+      "id": "cc86"
+    },
+    {
+      "name": "Christopher Taylor",
+      "age": 40,
+      "city": "Boston",
+      "is_student": false,
+      "hobbies": [
+        "writing",
+        "playing piano",
+        "running"
+      ],
+      "address": {
+        "street": "404 Cedar St",
+        "city": "Sometimes",
+        "state": "MA",
+        "zip": "86420"
+      },
+      "id": "78e3"
+    },
+    {
+      "name": "Amanda Wilson",
+      "age": 22,
+      "city": "Austin",
+      "is_student": true,
+      "hobbies": [
+        "photography",
+        "traveling",
+        "sketching"
+      ],
+      "address": {
+        "street": "505 Walnut St",
+        "city": "Anywhere",
+        "state": "TX",
+        "zip": "97531"
+      },
+      "id": "27d8"
+    },
+    {
+      "name": "Sam Thomas",
+      "age": 12,
+      "city": "Washington",
+      "is_student": true,
+      "hobbies": [
+        "playing guitar",
+        "cooking",
+        "gardening"
+      ],
+      "address": {
+        "street": "789 Oak St",
+        "city": "Anywhere",
+        "state": "IL",
+        "zip": "54321"
+      },
+      "id": "a1a1"
+    }
+  ]
+}
